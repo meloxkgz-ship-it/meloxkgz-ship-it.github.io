@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">QuitBet icon</title>
+  <rect width="512" height="512" rx="96" fill="#09090b"/>
+  <path d="M256 104 376 148v88c0 84-50 139-120 172-70-33-120-88-120-172v-88l120-44Z" fill="#0f766e"/>
+  <path d="M256 136 344 168v70c0 61-34 104-88 132-54-28-88-71-88-132v-70l88-32Z" fill="#f4f4f5"/>
+  <path d="m220 254 27 27 58-70" fill="none" stroke="#0f766e" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

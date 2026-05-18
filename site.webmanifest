@@ -1,0 +1,24 @@
+{
+  "name": "QuitBet",
+  "short_name": "QuitBet",
+  "description": "Private recovery tracker for sports betting, slots and casino pressure.",
+  "lang": "de-DE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f4f5",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/quitbet-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/quitbet-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
